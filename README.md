@@ -1,6 +1,4 @@
-# HTML-CSS
-
-# Web Visualization Dashboard (Lattitude)
+# Unit 12 | Assignment - Web Visualization Dashboard (Lattitude)
 
 ## Background
 
