@@ -1,4 +1,4 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Lattitude)
+# Web Visualization Dashboard (Lattitude)
 
 ## Background
 
